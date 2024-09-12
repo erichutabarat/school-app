@@ -1,7 +1,10 @@
 .gradle
-**/build/
 !src/**/build/
-
+.dart_tool
+.intermediates
+kotlin
+logs
+mapping
 # Ignore Gradle GUI config
 gradle-app.setting
 
